@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932715721529",
+    "project_id": "mysafepoint-77390",
+    "storage_bucket": "mysafepoint-77390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932715721529:android:558342ec937c4dad65aee8",
+        "android_client_info": {
+          "package_name": "com.example.mysafepoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXUTjllZe_Umy1sqzwZlYU0jgs7gU7qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
