@@ -31,9 +31,6 @@ It acts as a **personal safety assistant**, helping users quickly send emergency
 ---
 
 ## 📷 Screenshots  
-_Add screenshots of your app here (save them in `/images` folder)_  
-
-Example:  
-```markdown
-![SafePoint Login](images/Poster.png)
-![SOS Alert](images/sos.png)
+### Login Page
+![SafePoint FYP Poster](/images/Poster.png)
+![SafePoint Login](images/sos.png)
