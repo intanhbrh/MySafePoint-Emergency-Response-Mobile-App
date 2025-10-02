@@ -35,5 +35,5 @@ _Add screenshots of your app here (save them in `/images` folder)_
 
 Example:  
 ```markdown
-![SafePoint Login](images/login.png)
+![SafePoint Login](1231301467_Intan(NoorFarah)_Poster.png)
 ![SOS Alert](images/sos.png)
