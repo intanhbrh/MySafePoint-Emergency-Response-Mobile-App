@@ -33,4 +33,6 @@ It acts as a **personal safety assistant**, helping users quickly send emergency
 ## 📷 Screenshots  
 ### Login Page
 ![SafePoint FYP Poster](/images/Poster.png)
-![SafePoint Login](images/sos.png)
+![SafePoint Login](/images/register.jpeg)
+![SafePoint Login](/images/login.jpeg)
+
